@@ -3,7 +3,7 @@ _version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Peterssen, Hjalmar Eilif Emanuel
-    birthdate: &id001 1852
+    birthdate: 1852
     deathdate: 1928
     gutenberg_agent_id: '26486'
     url: http://www.gutenberg.org/2009/agents/26486
@@ -29,7 +29,7 @@ contributor:
     gutenberg_agent_id: '26485'
     url: http://www.gutenberg.org/2009/agents/26485
   - agent_name: Krogh, Christian
-    birthdate: *id001
+    birthdate: 1852
     gutenberg_agent_id: '26484'
     url: http://www.gutenberg.org/2009/agents/26484
   translators:
@@ -56,6 +56,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/312
     wikipedia: http://en.wikipedia.org/wiki/Snorri_Sturluson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22093#The-Sagas-of-Olaf-Tryggvason-and-of-Harald-The-Tyrant--Harald-Haardraade-
 gutenberg_issued: '2007-07-17'
 gutenberg_type: Text
 identifiers:
