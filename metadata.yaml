@@ -1,0 +1,73 @@
+_repo: The-Sagas-of-Olaf-Tryggvason-and-of-Harald-The-Tyrant--Harald-Haardraade-_22093
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Peterssen, Hjalmar Eilif Emanuel
+    birthdate: &id001 1852
+    deathdate: 1928
+    gutenberg_agent_id: '26486'
+    url: http://www.gutenberg.org/2009/agents/26486
+  - agent_name: Egedius, Halfdan
+    birthdate: 1878
+    deathdate: 1899
+    gutenberg_agent_id: '26483'
+    url: http://www.gutenberg.org/2009/agents/26483
+  - agent_name: Wetlesen, Wilhelm Laurits
+    birthdate: 1871
+    deathdate: 1925
+    gutenberg_agent_id: '26488'
+    url: http://www.gutenberg.org/2009/agents/26488
+  - agent_name: Werenskiold, Erik Theodor
+    birthdate: 1855
+    deathdate: 1938
+    gutenberg_agent_id: '26487'
+    url: http://www.gutenberg.org/2009/agents/26487
+    wikipedia: http://en.wikipedia.org/wiki/Erik_Werenskiold
+  - agent_name: Munthe, Gerhard
+    birthdate: 1849
+    deathdate: 1929
+    gutenberg_agent_id: '26485'
+    url: http://www.gutenberg.org/2009/agents/26485
+  - agent_name: Krogh, Christian
+    birthdate: *id001
+    gutenberg_agent_id: '26484'
+    url: http://www.gutenberg.org/2009/agents/26484
+  translators:
+  - agent_name: Hearn, Ethel Harriet
+    gutenberg_agent_id: '25101'
+    url: http://www.gutenberg.org/2009/agents/25101
+  - agent_name: Storm, Gustav
+    birthdate: 1845
+    deathdate: 1903
+    gutenberg_agent_id: '25102'
+    url: http://www.gutenberg.org/2009/agents/25102
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Snorri Sturluson
+    aliases:
+    - Sturleson, Snorro
+    - Sturlason, Snorre
+    - Sturluson, Snorri
+    deathdate: 1241
+    gutenberg_agent_id: '312'
+    url: http://www.gutenberg.org/2009/agents/312
+    wikipedia: http://en.wikipedia.org/wiki/Snorri_Sturluson
+description: ''
+gutenberg_issued: '2007-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22093'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Sagas -- Translations into English'
+- !lcsh 'Olav I Trygveson, King of Norway, 968-1000'
+- !lcsh 'Harald III Harðráði, King of Norway, 1015-1066'
+title: The Sagas of Olaf Tryggvason and of Harald The Tyrant (Harald Haardraade)
+url: http://www.gutenberg.org/ebooks/22093
